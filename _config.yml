@@ -1,0 +1,17 @@
+title: Resume | Ethan Goerdel
+
+lang: en-US
+
+description: As an environmental geoscientist, I am passionate about sustainability and educating others on the importance of being better stewards of our natural resources. Seeking an environmental career in environmental research, field testing with site collection and assessment, regulatory compliance and/or data management.
+
+url: https://www.ethangoerdel.com/
+
+author: 
+    name: Ethan Goerdel
+    
+github_username: egoerdel
+
+logo: /images/favicon.png
+
+plugins:
+  - jekyll-seo-tag
