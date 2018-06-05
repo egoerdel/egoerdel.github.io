@@ -1,4 +1,4 @@
-# A Custom Resume Built for Transparency 
+# A Custom Resume Built for Transparency
 
 ## This website was designed and created by: Ethan Goerdel
 
