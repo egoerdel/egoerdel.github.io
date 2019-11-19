@@ -8,7 +8,7 @@
 	--orange: #ff9800;
 	--red: #f44336;
 	--violet: #673ab7;
-	--blue: #2196f3;
+	--blue: #0D47A1;
 	--cyan: #00bcd4;
 	--green: #4CAF50;
 }
@@ -21,21 +21,23 @@ body {
 header a {
 	text-decoration: underline;
 }
-header a:link, a:visited {
+header a:link, footer a:visited {
 	color: var(--white);
 }
-header a:hover, a:active {
+header a:hover, footer a:active {
 	color: var(--orange);
 }
 footer a {
 	text-decoration: underline;
 }
-footer a:link, a:visited {
-	color: var(--black);
+
+footer a:link, footer a:visited {
+	color: var(--cyan);
 }
-footer a:hover, a:active {
+footer a:hover, footer a:active {
 	color: var(--orange);
 }
+
 header {
 	background-color: var(--blue);
 	color: var(--white);
@@ -50,6 +52,12 @@ hr {
 .skills span {
 	background-color: var(--green);
 	color: var(--white);
+}
+h2 a:link, h2 a:visited {
+	color: var(--black);
+}
+h2 a:hover, h2 a:active {
+	color: var(--cyan);
 }
 h3 {
 	color: var(--blue);
