@@ -1,0 +1,221 @@
+general: 
+  name: "Ethan Goerdel"
+  profile: 
+    - "As an environmental geoscientist, I am passionate about sustainability and educating others on the importance of being better stewards of our natural resources. Seeking an environmental career in environmental research, field testing with site collection and assessment, regulatory compliance and/or data management. Working outdoors, collecting and analyzing data, and monitoring compliance are my greatest areas of interest."
+    - "My experience is in solar data analysis specifically in community solar for low income communities. I have utilized my experience in architecting and implementing Identity Management solutions for data integration to analyze data for project identification and to research relevant foundations and potential funding. My major started in computer science and I have served full-time with a non-profit solar energy initiative and worked for three technology companies (two in web design and another in corporate security and data management)."
+    - "Now I am now bridging the gap between my experience and my degree in Environmental Geoscience from Texas A&M."
+  links: 
+    - id: linkedin-url
+      elementid: yaml-header-portfolio
+      name: "LinkedIn Profile"
+      url: "https://www.linkedin.com/in/ethan-goerdel"
+      
+    - id: indeed-url
+      elementid: yaml-header-portfolio
+      name: "Indeed Resume"
+      url: "https://my.indeed.com/p/ethang-dhvsx0q"
+      
+    - id: github-url
+      elementid: yaml-footer-copyright
+      name: "GitHub Source"
+      url: "https://github.com/egoerdel/egoerdel.github.io"
+  copyrightStart: 2018
+  copyrightEnd: 2023
+
+employment:
+  - id: "earthsoft"
+    name: "EarthSoft"
+    position: "Quality Assurance Analyst II"
+    location: "Pensacola, Florida"
+    startDate: "Nov. 2021"
+    endDate: "Present"
+    url: "https://earthsoft.com/about"
+    jobDescription:
+      - "Responsible for performing manual and automated tests using in-house applications."
+      - "Design, write, implement, and maintain various testing scenarios for multiple different products."
+      - "Participate in team communication/knowledge sharing during team meetings and presentations."
+      - "Participate in cross team discussions and developments to further enhance various products across the company."
+      - "Write detailed bug reports, documentation, and user engagements for developers and project managers."
+
+  - id: "reynolds"
+    name: "Reynolds & Reynolds"
+    position: "Quality Assurance Analyst"
+    location: "College Station, Texas"
+    startDate: "Apr. 2019"
+    endDate: "Nov. 2021"
+    url: "https://www.reyrey.com/company"
+    jobDescription:
+      - "Responsible for testing a variety of software applications and hardware systems to help ensure products are of the highest quality before releasing to clients."
+      - "In charge of testing multiple products independently and with little or no supervision."
+      - "Ensured enhancements, new changes, and existing functionality all worked as desired."
+      - "Frequently assisted other teams and departments with testing other software application outside of my products."
+      - "Writing, compiling and building extensive reports for other departments and teams to communicate issues."
+
+  - id: "jbcabinetry"
+    name: "JB Cabinetry & Remodeling"
+    position: "Assistant Carpenter (Temporary)"
+    location: "Dallas-Fort Worth, Texas"
+    startDate: "Dec. 2018"
+    endDate: "Mar. 2019"
+    url: "https://www.facebook.com/jbcabinetryandremodeling/"
+    jobDescription:
+      - "Contracted with JB Cabinetry & Remodeling to work on a temporary basis to assist crew with large-scale jobs."
+
+  - id: "rreal"
+    name: "Rural Renewable Energy Alliance (RREAL)"
+    position: "AmeriCorps VISTA"
+    location: "Backus, Minnesota"
+    startDate: "Jul. 2017"
+    endDate: "Jul. 2018"
+    url: "https://www.rreal.org/"
+    jobDescription:
+      - "Communicated and collaborated with clients and partners to assist with information regarding current solar installations, future solar installations, and funding opportunities throughout northern and central Minnesota. Identified interested and eligible Community Action agencies and developed relationships with interested utility services."
+      - "Established data compilation methodology based on existing data collection software to analyze impact of Community Solar Array for low income in collaboration with Leech Lake Band of Ojibwe, which is the first implementation project on tribal lands in northern Minnesota."
+      - "Identified relevant fundraising opportunities based on project identification, research relevant foundations, and local and national organizations that have expressed an interest in funding these community projects. Prepared multiple drafts of selected grant opportunities and shared with RREAL staff for final edits and submission."
+      - "Networked with DOE SunShot Solar In Your Community group to keep current on related topics as related to upcoming changes in federal policy that may affect funding. Disseminated nationwide model(s) recommendation through the DOE SunShot Solar In Your Community Challenge and the National Community Solar Partnership which collaborates to deploy community solar for low income households through the Solar Commons model."
+      - "Designed and led the customer relationship management (CRM) software to optimize the organizations efficiency in identifying potential recipients of Solar Assistance and provided maintenance on CRM functionality/capacity to better suit RREAL’s growing staff."
+
+  - id: "chooz"
+    name: "CHOOZ App, LLC"
+    position: "Mobile App Design Contractor"
+    location: "Carrollton, Texas"
+    startDate: "Sep. 2015"
+    endDate: "Jan. 2017"
+    url: 0
+    jobDescription:
+      - "Assisted creator on a contractual basis as well as assisted the design and development team for CHOOZ™, a social media monitoring app."
+      - "Beta tested app and provided feedback for functional improvements; identified bugs in app and reported to developers for compliance in App Store/Google Play release."
+      - "Designed website layout, wording, instructional videos, teaser screens, and links for download and contact information."
+
+  - id: "estgroup"
+    name: "EST Group, LLC"
+    position: "Solutions Engineer, Identity and Security Management"
+    location: "Arlington, Texas"
+    startDate: "Dec. 2014"
+    endDate: "Sep. 2015"
+    url: "https://www.linkedin.com/company/est-group"
+    jobDescription:
+      - "Architected and implemented Identity Management solutions to clients."
+      - "Provided technical consulting, IT solutions and implementation services for data integration and role base access solutions for clients."
+      - "Performed integration of applications with multi-platform products and evaluated data and log analysis."
+      - "Provided integration in automating, managing, and securing IT environment. Integrated and implemented identity solutions for Novell Storage Manager, NetIQ (Access and Identity Manager, eDirectory Administration), Microsoft Active Directory, Identity Automations (DSS and ARMS)."
+
+  - id: "skeds"
+    name: "FieldLocate (SKEDS)"
+    position: "Web Designer and Software Engineering Intern"
+    location: "North Richland Hills, Texas"
+    startDate: "May 2010"
+    endDate: "Aug. 2011"
+    url: "https://www.fieldlocate.com/about-fieldlocate/12"
+    jobDescription:
+      - "Web designer and software engineering intern specializing in automated testing software of web interfaces."
+      - "Tested the scheduling software in Beta and identified problems or potential problems in the code."
+      - "Communicated problems to our software engineers, communicated solutions to clients, and developed resolutions."
+
+skills:
+  - id: certifications
+    name: Certifications
+    type: li
+    data: 
+      - "Hazardous Waste General Site Worker | 40-Hour (HAZWOPER) Certification"
+      - "Heartsaver® CPR/AED through American Heart Association®"
+      - "[PADI] Open Water Scuba Certification"
+      - "Cisco Networking Panduit Certified Technician [CNPT]"
+
+  - id: transferable-skills
+    name: Transferable Skills
+    type: li
+    data: 
+      - "Advanced knowledge of Microsoft Office Suite, including Word, Excel, SharePoint, and Dynamics 365."
+      - "Great communication skills; can conduct meetings and webinars, speak in front of groups, and communicate with clients both in-person and through email and phone."
+      - "Experience with business oriented travel and remote work."
+      - "Strong organizational skills with the ability to work under pressure, manage multiple projects simultaneously, and meet deadlines under time restricted projects."
+      - "Advanced skills troubleshooting a wide array of software, products, and operating systems."
+
+  - id: technology-proficiencies
+    name: Technology Proficiencies
+    type: span
+    data: 
+      - "Agile Software Development"
+      - "Apache Ant"
+      - "ArcGIS10"
+      - "ArcMAP"
+      - "C++"
+      - "CSS"
+      - "eDirectory"
+      - "EQuIS Collect"
+      - "EQuIS Data Processor"
+      - "EQuIS Enterprise"
+      - "EQuIS EnviroInsite"
+      - "EQuIS Geotechnical Module"
+      - "EQuIS Professional"
+      - "GPS"
+      - "HTML"
+      - "Identity Automations"
+      - "Java"
+      - "Javascript"
+      - "Learning Management System (LMS)"
+      - "Microsoft Active Directory"
+      - "Microsoft Azure"
+      - "Microsoft Dynamics"
+      - "Microsoft Office"
+      - "NetIQ"
+      - "NoSQL"
+      - "Novell Storage Manager"
+      - "Oracle Maintenance Cloud (CMMS)"
+      - "Rainforest QA"
+      - "Selenium"
+      - "SQL"
+      - "Spatial Database Design"
+      - "Networking"
+
+education:
+  - id: TAMU-Undergrad
+    name: "Texas A&M University"
+    major: "B.S. Environmental Geoscience"
+    location: "College Station, Texas"
+    startDate: "August 2010"
+    endDate: "August 2014"
+
+projects:
+  - id: OsaLandslide
+    name: In-Depth Analysis of the Oso, Washington Landslide
+    description: Examined the different causes of the landslide, as well as reported and predicted future occurrences in order to mitigate damages, including possible causes, geologic history, previous landslides, preventable procedures, and possible future occurrences.
+
+  - id: OurayTailings
+    name: Site Assessment of Mine Tailings in Ouray, Colorado
+    description: Phase II and Phase III Site Assessment of land parcel south of Ouray, CO. including an investigation of the site damages, the extent of the contaminated region, and recommendation for remediation.
+
+  - id: CollegeStationZoonotic
+    name: Levels of Zoonotic Agents in Waters of College Station Texas Parks
+    description: Determined the levels of Giardia, Cryptosporidium, and E. coli in water at nine parks in the College Station area and if the levels of these organisms were at the national drinking water and EPA standards.
+
+  - id: TAMUMapping
+    name: Mapping Texas A&M Roads
+    description: Determined accuracy and calculated error of the GPSmap 76Cx GPS unit at A&M Main Campus, and if the unit accurately determined location with the constant change in PDOP due to the buildings interference.
+
+  - id: ArcGIS10Maps
+    name: Maps created using ArcGIS10
+    description: College Station Land Survey; Total Petroleum Hydrocarbons Collected at McMurdo Station in Antarctica; TPH Amounts in Relation to Fuel Tanks; Nunavut Territory Canada Elevation Map; Upper Rio Grande Basin Elevation and Relief Maps
+
+volunteer:
+  - id: AmeriCorpsVISTA
+    name: "AmeriCorps VISTA"
+    subtitle: "Volunteer in Service to America"
+    description: "Served full-time (40 hours a week) in northern Minnesota for one year of service with the Rural Renewable Energy Alliance. As an AmeriCorps VISTA member, I serve as a catalyst for change, living and working alongside community members to advance local solutions. I specifically sought out a VISTA that would utilize my professional experience in an organization that focused on environmental sustainability. RREAL is dedicated to making solar energy accessible to communities of all income levels, primarily through a Solar Assistance program, which provides solar energy systems to low-income families and communities as a sustainable solution to energy poverty."
+    startDate: "2017"
+    endDate: "2018"
+
+  - id: OneLoveTAMU
+    name: "Texas A&M OneLove"
+    subtitle: "Social & Environmental Organization"
+    description: "Worked with Texas A&M's Sustainability Council to pass the Green Fund Initiative, which funded green campaigns on the campus through a student use fee. (Examples include campus-wide water bottle refilling stations and recycling containers and solar panel mini-power stations.)</br>Volunteered for community projects including Keep Brazos Beautiful Recycling, Bastrop County wildfires cleanup, community garden at Still Creek Ranch Children’s Home and annual trips for Clean Galveston Beaches."
+    startDate: "2010"
+    endDate: "2014"
+
+  - id: EnglishVolunteerBMS
+    name: "Volunteer Teacher for Conversational English"
+    subtitle: "TAMU Baptist Student Ministries"
+    description: "Helped International students practice and improve their English. Served as a weekly Conversation Partner, getting to know them, talking about their culture and answered any questions they have about English."
+    startDate: "2013"
+    endDate: "2014"
