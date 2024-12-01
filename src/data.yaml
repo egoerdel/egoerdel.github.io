@@ -10,17 +10,12 @@ general:
       name: "LinkedIn Profile"
       url: "https://www.linkedin.com/in/ethan-goerdel"
       
-    - id: indeed-url
-      elementid: yaml-header-portfolio
-      name: "Indeed Resume"
-      url: "https://my.indeed.com/p/ethang-dhvsx0q"
-      
     - id: github-url
       elementid: yaml-footer-copyright
       name: "GitHub Source"
       url: "https://github.com/egoerdel/egoerdel.github.io"
   copyrightStart: 2018
-  copyrightEnd: 2023
+  copyrightEnd: 2025
 
 employment:
   - id: "earthsoft"
